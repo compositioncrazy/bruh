@@ -1,4 +1,4 @@
-//META{"name":"StereoCord","source":"https://github.com/Mega-Mewthree/BetterDiscordPlugins/blob/master/Plugins/AutoStartRichPresence/AutoStartRichPresence.plugin.js"}*//
+//META{"name":"StereoCord","source":"https://github.com/tsukojis/bruh/blob/master/stereo.plugin.js"}*//
 
 var stereoSound = function () {
 
